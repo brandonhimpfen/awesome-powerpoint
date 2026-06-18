@@ -113,6 +113,7 @@ Platforms incorporating AI into presentation creation.
 - [Tome](https://tome.app/) — AI storytelling and presentation tool.
 - [Canva Magic Design](https://www.canva.com/) — AI-assisted design workflows.
 - [SlidesAI](https://www.slidesai.io/) — AI presentation generation.
+- [PPT Template Generator](https://ronnie2025.github.io/ppt-template-generator/) — Browser-only generator for PPT layout plans, AI presentation prompts, and delivery checks.
 
 ## Learning Resources
 
